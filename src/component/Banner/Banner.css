@@ -1,0 +1,35 @@
+
+.colLink{
+text-decoration: none;
+color: white;
+}
+.colLink:hover{
+
+color: rgb(255, 32, 32);
+}
+
+
+.banner {
+    background-image: url("https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80&fbclid=IwAR37veHPW0ED2QGokpyl9wxb03MbR8ECmWzKf7Rdq9V7pIGCJuruRg1IikE"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 780px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: blue;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    padding: 17px 34px;
+    color: white;
+  }
