@@ -4,8 +4,8 @@
 
 
 
-1. A Helpfull Website
-              1. It will helps people to learn from home!!!
-              2. Responsive
-              3. U can choose ur Favourite Subject
+
+1. It will helps people to learn from home!!!
+2. Responsive
+3. U can choose ur Favourite Subject..
         
